@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav.
 - 👀 I’m interested in Data Science & Marketing Analytics
-- 🌱 I’m currently learning Advanced ML techniques & Best Preactices
+- 🌱 I’m currently learning Advanced ML techniques & Best Practices
 - 💞️ I’m looking to collaborate on ML projects in Marketing Analytics
 - 📫 You can reach out to me via LinkedIn here - https://www.linkedin.com/in/abhinavchoudhary1/
 
