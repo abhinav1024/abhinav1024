@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav.
-- 👀 I’m interested in Data Science & Marketing Analytics
-- 🌱 I’m currently learning Advanced ML techniques & Best Practices
-- 💞️ I’m looking to collaborate on ML projects in Marketing Analytics
+- 👀 I like learning & applying new concepts in Product Analytics, Data Science, GenAI & Agentic AI
+- 🌱 I’m currently learning Agentic AI & its applications in real world, particularly in Product Analytics
+- 💞️ I’m looking to collaborate on AI/ML projects in Product & Marketing Analytics
 - 📫 You can reach out to me via LinkedIn here - https://www.linkedin.com/in/abhinavchoudhary1/
 
 <!---
