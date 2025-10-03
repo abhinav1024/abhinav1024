@@ -1,5 +1,5 @@
-- 👋 Hi, this is Abhinav.
-- 👀 Love to keep myself updated on new concepts/techniques in Product Analytics, Product Management & AI/ML
+- 👋 Hi there, good to see you on my GitHub profile!
+- 👀 I love to keep myself updated on new concepts/techniques in Product Analytics, Product Management & AI/ML
 - 🌱 I’m currently learning LLM/AgenticAI applications in multiple business use cases across verticals
 - 💞️ I’m looking to collaborate on AI/ML projects in Product & Marketing Analytics
 - 📫 You can reach out to me via LinkedIn here - https://www.linkedin.com/in/abhinavchoudhary1/
